@@ -13,7 +13,7 @@ VALUES ("Accounting Manager", 150000, 1),
     ("Account Manager", 125000, 2),
     ("Lead Counsel", 250000, 3),
     ("Counsel", 150000, 3),
-    ("Sales Manager", 190000, 4);
+    ("Sales Manager", 190000, 4),
     ("Sales Specialist", 95000, 4);
 
 /* inserts data into employee table */ 
@@ -22,7 +22,7 @@ VALUES
     ("Yngwie", "Malmsteen", 1, NULL),
     ("Joe", "Satriani", 2, NULL),
     ("Steve", "Vai", 3, NULL),
-    ("Greg", "Howe", 4, NULL),
+    ("Greg", "Howe", 4, NULL);
     ("Jimi", "Hendrix", 1, NULL),
     ("Vito", "Bratto", 2, NULL),
     ("Criss", "Olivia", 3, NULL),
@@ -35,7 +35,7 @@ VALUES
     ("Ace", "Frehley", 2, NULL),
     ("Dave", "Murray", 3, NULL),
     ("Vinnie", "Moore", 4, NULL),
-    ("Paul", "Gilbert", 1, NULL);
-    ("Paul", "Stanley", 2, NULL);
-    ("CC", "Deville", 3, NULL);
+    ("Paul", "Gilbert", 1, NULL),
+    ("Paul", "Stanley", 2, NULL),
+    ("CC", "Deville", 3, NULL),
     ("Tom", "Keifer", 4, NULL);
